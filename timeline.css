@@ -1,0 +1,34 @@
+table,th,td{
+    border: 1px double white;
+    font-size: larger;
+    width:900px;
+
+    
+}
+body{
+    color:white;
+    border:1px solid white;
+    background-color:rgb(74, 74, 84);
+}
+th,td{
+    padding: 15px;
+    text-align: justify;
+
+}
+.header{
+    padding-bottom: 100px;
+    text-align: center;
+}
+.copy{
+    text-align: center;
+    font-weight: bold;
+    font-family:'Times New Roman', Times, serif;
+    padding-top:20px;
+}
+tr:hover{
+    color: green;
+    cursor:pointer;
+}
+th:hover{
+    color:green;
+}
